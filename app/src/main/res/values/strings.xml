@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AndroidComponent</string>
+    <string name="change_theme">ChangeTheme</string>
+    <string name="change_recover">ChangeRecover</string>
+    <string name="open">Open</string>
+    <string name="change_theme_reset">change_theme_reset</string>
 </resources>
